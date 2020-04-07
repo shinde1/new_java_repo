@@ -4,6 +4,7 @@ pulic class hello
 {
 
 System.out.println("Hello smita");
+System.out.println("Hello git");
 
 }
 }
